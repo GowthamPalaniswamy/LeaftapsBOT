@@ -20,7 +20,7 @@ public class TC001_createLead extends ProjectSpecificMethods{
 		testcaseName="Create Lead";
 		testcaseDec="To create a lead and verify whether it is successfully created";
 		author="Gowtham";
-		category="POM";
+		category="Regression Testing";
 	}
 	
 	
