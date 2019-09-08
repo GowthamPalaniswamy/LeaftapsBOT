@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24377" started-at="2019-09-08T10:23:44Z" finished-at="2019-09-08T10:24:08Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="24377" started-at="2019-09-08T10:23:44Z" finished-at="2019-09-08T10:24:08Z">
+      <class name="com.leafBot.testcases.TC001_createLead">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="startReport" is-config="true" duration-ms="179" started-at="2019-09-08T10:23:44Z" finished-at="2019-09-08T10:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="setData" is-config="true" duration-ms="0" started-at="2019-09-08T10:23:44Z" finished-at="2019-09-08T10:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="setUpClass" is-config="true" duration-ms="57" started-at="2019-09-08T10:23:44Z" finished-at="2019-09-08T10:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="report" is-config="true" duration-ms="3" started-at="2019-09-08T10:23:44Z" finished-at="2019-09-08T10:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="beforeMethod" is-config="true" duration-ms="10092" started-at="2019-09-08T10:23:44Z" finished-at="2019-09-08T10:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="runTC001()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="runTC001" duration-ms="9887" started-at="2019-09-08T10:23:54Z" finished-at="2019-09-08T10:24:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTC001 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="afterMethod" is-config="true" duration-ms="4318" started-at="2019-09-08T10:24:04Z" finished-at="2019-09-08T10:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="tearDownClass" is-config="true" duration-ms="3" started-at="2019-09-08T10:24:08Z" finished-at="2019-09-08T10:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="stopReport()[pri:0, instance:com.leafBot.testcases.TC001_createLead@731a74c]" name="stopReport" is-config="true" duration-ms="156" started-at="2019-09-08T10:24:08Z" finished-at="2019-09-08T10:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- com.leafBot.testcases.TC001_createLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

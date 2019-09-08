@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="3" name="Test(failed)">
+    <classes>
+      <class name="com.leafBot.testcases.TC001_createLead">
+        <methods>
+          <include name="stopReport"/>
+          <include name="beforeMethod"/>
+          <include name="setUpClass"/>
+          <include name="report"/>
+          <include name="setData"/>
+          <include name="afterMethod"/>
+          <include name="startReport"/>
+          <include name="runTC001"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.leafBot.testcases.TC001_createLead -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
